@@ -1,1 +1,6 @@
-# Ajax-interaction
+
+
+前台利用ajax与后台进行数据交互
+==
+
+后台后台才用SSM框完成业务处理。
